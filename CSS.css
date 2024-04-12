@@ -1,0 +1,84 @@
+body{
+    background-color: lightsalmon;;
+}
+
+.lexend-peta-center {
+  font-family: "Lexend Peta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 40px;
+  font-style: normal;
+  text-align: center;
+  font-size: 12px;
+}
+.centralizado {
+    text-align: center;
+}
+.classimg {
+    width: 200px;
+    border-radius: 200px;
+}
+.img_terno {
+    width: 200px;
+    border-radius: 200px;
+    margin: 0 200 0 200;
+    display: block;
+}
+#linkedin_button {
+    width: 30px;
+    height: 30px;
+}
+#linkedin_instagram {
+    width: 30px;
+    height: 30px;
+}
+#github_button {
+    width: 30px;
+    height: 30px;
+}
+.linha-horizontal {
+    height: 5px; /* Altura da linha */
+    background-color: hsl(0, 0%, 100%); /* Cor da linha */
+    margin: 20px 0; /* Margem superior e inferior para espaçamento */
+    border-radius: 50px;
+}
+.lexend-peta-left {
+    font-family: "Lexend Peta", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 40px;
+    font-style: normal;
+    text-align: left;
+    font-size: 12px;
+}
+.figure {
+    display: inline;
+}
+#imagemcanada {
+    width: 200px;
+    height: 200px;
+    border-radius: 0 100px 0 100px;
+}
+#imagemeua {
+    width: 200px;
+    height: 200px;
+    border-radius: 0 100px 0 100px;
+}
+figure {
+    font-family: "Lexend Peta", sans-serif;
+    font-optical-sizing: auto ;
+    font-weight: 40px;
+    font-style: normal;
+    font-size: 12px;
+    display: inline-block;
+}
+#imagemchile {
+    width: 200px;
+    height: 200px;
+    border-radius: 0 100px 0 100px;
+}
+#imagemalemanha {
+    width: 200px;
+    height: 200px;
+    border-radius: 0 100px 0 100px;
+}
+/* display: inline-block;
+align-items: center; */
